@@ -1,0 +1,15 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "Flatten any combination of objects and arrays.",
+  "main": "flatten.js",
+  "keywords": [
+    "flat object",
+    "flat array",
+    "flatten object",
+    "flatten array",
+    "linear object"
+  ],
+  "author": "Shourya Mittal",
+  "license": "MIT"
+}
