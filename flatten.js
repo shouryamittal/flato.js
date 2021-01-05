@@ -44,5 +44,4 @@ function flatten(obj) {
     }
     return flatObject;
 }
-
 module.exports = flatten;
