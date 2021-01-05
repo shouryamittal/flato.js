@@ -2,7 +2,7 @@
  * Run this sample : node sampleExecutor
  ****************************************/
 
-const flatten = require("./flatten");
+const flato = require("./flato");
 
 let obj = {
     a:1,
@@ -13,5 +13,5 @@ let obj = {
     }
 }
 
-let flatObject = flatten(obj);
+let flatObject = flato(obj);
 console.log(flatObject);

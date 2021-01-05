@@ -1,8 +1,8 @@
 {
-  "name": "flatten",
+  "name": "flato",
   "version": "1.0.0",
   "description": "Flatten any combination of objects and arrays.",
-  "main": "flatten.js",
+  "main": "flato.js",
   "keywords": [
     "flat object",
     "flat array",
