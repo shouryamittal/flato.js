@@ -1,8 +1,6 @@
-# flatten.js
+# flato.js
 Utility to flat any combination of arrays and objects.
 
 <h3>How to use ?</h3>
-<ul>
-  <li>Include in HTML file:</li>
-  <div></div>
-</ul>
+<h4>Installation:<h4>
+  <pre>npm i flato</pre>
